@@ -47,3 +47,4 @@ src/fancy/index.ts
 # Million Lint
 .million
 
+.env
